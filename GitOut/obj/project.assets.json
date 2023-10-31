@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hiyal\\source\\repos\\GitOut\\GitOut\\GitOut.csproj",
+      "projectUniqueName": "C:\\Users\\Hiyal\\OneDrive\\Documents\\GitHub\\Git-Out\\GitOut\\GitOut.csproj",
       "projectName": "GitOut",
-      "projectPath": "C:\\Users\\Hiyal\\source\\repos\\GitOut\\GitOut\\GitOut.csproj",
+      "projectPath": "C:\\Users\\Hiyal\\OneDrive\\Documents\\GitHub\\Git-Out\\GitOut\\GitOut.csproj",
       "packagesPath": "C:\\Users\\Hiyal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hiyal\\source\\repos\\GitOut\\GitOut\\obj\\",
+      "outputPath": "C:\\Users\\Hiyal\\OneDrive\\Documents\\GitHub\\Git-Out\\GitOut\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hiyal\\AppData\\Roaming\\NuGet\\NuGet.Config",
